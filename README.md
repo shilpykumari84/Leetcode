@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shilpykumari84/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shilpykumari84/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shilpykumari84/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shilpykumari84/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shilpykumari84/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shilpykumari84/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shilpykumari84/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shilpykumari84/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
