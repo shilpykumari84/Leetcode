@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shilpykumari84/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shilpykumari84/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0376-wiggle-subsequence](https://github.com/shilpykumari84/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/shilpykumari84/Leetcode/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/shilpykumari84/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shilpykumari84/Leetcode/tree/master/0733-flood-fill) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shilpykumari84/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilpykumari84/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shilpykumari84/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0376-wiggle-subsequence](https://github.com/shilpykumari84/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/shilpykumari84/Leetcode/tree/master/0494-target-sum) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/shilpykumari84/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
 ## Tree
 |  |
