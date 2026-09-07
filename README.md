@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shilpykumari84/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shilpykumari84/Leetcode/tree/master/0053-maximum-subarray) |
+| [0090-subsets-ii](https://github.com/shilpykumari84/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shilpykumari84/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilpykumari84/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/shilpykumari84/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
 ## Graph Theory
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/shilpykumari84/Leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/shilpykumari84/Leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
