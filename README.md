@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/shilpykumari84/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -116,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shilpykumari84/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
