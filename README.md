@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shilpykumari84/Leetcode/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/shilpykumari84/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shilpykumari84/Leetcode/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/shilpykumari84/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/shilpykumari84/Leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shilpykumari84/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/shilpykumari84/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
