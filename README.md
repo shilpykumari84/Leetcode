@@ -110,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shilpykumari84/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/shilpykumari84/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shilpykumari84/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shilpykumari84/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
