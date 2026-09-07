@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shilpykumari84/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shilpykumari84/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shilpykumari84/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shilpykumari84/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
 ## Recursion
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shilpykumari84/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
