@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
