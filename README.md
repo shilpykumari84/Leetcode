@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shilpykumari84/Leetcode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/shilpykumari84/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/shilpykumari84/Leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/shilpykumari84/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shilpykumari84/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shilpykumari84/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shilpykumari84/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/shilpykumari84/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/shilpykumari84/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shilpykumari84/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shilpykumari84/Leetcode/tree/master/0217-contains-duplicate) |
 | [0763-partition-labels](https://github.com/shilpykumari84/Leetcode/tree/master/0763-partition-labels) |
+| [0997-find-the-town-judge](https://github.com/shilpykumari84/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
