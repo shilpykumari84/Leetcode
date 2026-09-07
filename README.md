@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/shilpykumari84/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shilpykumari84/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shilpykumari84/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
