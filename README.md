@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shilpykumari84/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shilpykumari84/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shilpykumari84/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shilpykumari84/Leetcode/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shilpykumari84/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
