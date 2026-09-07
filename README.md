@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/shilpykumari84/Leetcode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shilpykumari84/Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shilpykumari84/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
