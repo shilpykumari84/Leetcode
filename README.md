@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shilpykumari84/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shilpykumari84/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shilpykumari84/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shilpykumari84/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shilpykumari84/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shilpykumari84/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shilpykumari84/Leetcode/tree/master/0148-sort-list) |
